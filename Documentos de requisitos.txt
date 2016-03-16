@@ -7,3 +7,7 @@ RF001: El sistema debe permitir el registro de alumnos.
 RF002: El sistema debe imprimir reporte de calificaciones.
 RF003: El sistema debe permitir la carga de materias
 __________________________________________________________
+RN001: El sistema debe ser usable.
+RN002: El sistema debe ser rapido.
+RN003: El sistema debe ser seguro
+_____________________________________________________________
