@@ -1,0 +1,17 @@
+commit dc90f3b5e56e52d937d1ff326d804b68ed50151c
+Author: Enrique <kvbeltran@hotmail.com>
+Date:   Wed Mar 16 10:31:51 2016 -0700
+
+    Requisitos funcionales
+
+commit 09e96bdac600f476261cbb125fcbf08e6b9f9c96
+Author: Enrique <kvbeltran@hotmail.com>
+Date:   Wed Mar 16 10:30:57 2016 -0700
+
+    Casos de uso
+
+commit 5308774dccc56607cd62202237f960420889cebc
+Author: Enrique <kvbeltran@hotmail.com>
+Date:   Wed Mar 16 10:25:17 2016 -0700
+
+    Documentos de requisitos
