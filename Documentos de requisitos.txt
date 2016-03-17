@@ -17,3 +17,8 @@ cu001: Regitrar alumnos.
 Cu002: Imprimir Kardex.
 cu003: cargar materias.
 ____________________________________________________________
+Cambio
+
+este es un cambio para GitHub
+
+_____________________________________________________________
